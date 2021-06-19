@@ -1,0 +1,13 @@
+h1{
+    color:red;
+    background-color: black;
+}
+.grid{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.item{
+    border: solid;
+    color:blanchedalmond;
+}
